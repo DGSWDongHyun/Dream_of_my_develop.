@@ -17,6 +17,7 @@
 
 :arrow_forward: [ 차기 준비 중인 개인 프로젝트. ]
 
-:speech_balloon: 1. WDSN ( what do you study now? ) [ 온라인 과제를 까먹지 않도록 도와주는 알림장과 비슷한 서비스. ] 
+:speech_balloon: 1. WDSN ( what do you study now? ) [ 온라인 과제를 까먹지 않도록 도와주는 알림장과 비슷한 서비스. ]
+
 :bus: 2. 깨랑깨랑. [ 버스 내에서 정류장에 근접시 알림을 울려주는 서비스. ] 
 
