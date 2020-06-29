@@ -3,9 +3,10 @@
 :computer: [ 가장 먼저 해야할 프로젝트들. ]
 
 1. Android 나르샤, [ 이름 미정. ], 음악 프로그램
-2. Android 개인 프로젝트 [ 세월호, 기억해주세요. ]
-3. Android 팀 프로젝트 [ B Man Messanger. ]
-4. Stack 팀 프로젝트 [ 아띠. ] , With flutter.
+2. Stack 팀 프로젝트 [ 아띠. ] , With flutter.
+3. Android 개인 프로젝트 ( 2020. 06.30 수정됨. ) [ WDSN ( What do you study now? ) ]
+4. Android 팀 프로젝트 [ B Man Messanger. ]
+5. Android 개인 프로젝트 [ 깨랑깨랑. ]
 
 :arrow_forward: [ 배워야 할 언어 목록. ]
 
